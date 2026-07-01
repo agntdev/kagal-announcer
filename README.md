@@ -1,0 +1,7 @@
+# Kagal Announcer
+
+Telegram bot that delivers read-only announcements from the kagal community channel to subscribed users via direct messages.
+
+Spec: [`docs/blueprint.md`](docs/blueprint.md).
+
+Built on [agnt-gm.ai](https://agnt-gm.ai). The whole bot is built and refined here as pull requests across successive build passes.
